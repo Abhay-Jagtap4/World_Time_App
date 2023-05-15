@@ -1,6 +1,6 @@
-# world_time
+# World Time App
 
-A new Flutter project.
+A world clock application to display time of different places.
 
 ## Getting Started
 
